@@ -12,7 +12,19 @@ h1{
 #home-intro:hover{
     background-color: rgb(115, 171, 110);
 }
-#p1{
+#p2{
     text-align: center;
     color: blue;
+}
+#nav{
+    text-align: center;
+    background-color: brown;
+    height: 25px;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+#nav a{
+    margin:0px 5px;
+    text-decoration: none;
+    color:white;
 }
