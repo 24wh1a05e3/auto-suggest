@@ -1,7 +1,7 @@
 h1{
     color:red;
 }
-
+/*property:value*/
 #home-intro{
     text-align: center;
 
@@ -20,11 +20,28 @@ h1{
     text-align: center;
     background-color: brown;
     height: 25px;
-    padding-top: 10px;
+    padding-top: 5px;
     margin-bottom: 5px;
 }
 #nav a{
     margin:0px 5px;
     text-decoration: none;
     color:white;
+}
+#card{
+    align-items: center;
+    margin-top: 5px;
+}
+#card-img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    margin:0px auto;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+#action{
+    text-align: center;
 }
