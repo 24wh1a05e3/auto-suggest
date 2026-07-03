@@ -21,4 +21,5 @@ function toggle(){
   // name
   document.getElementById("card-name").innerText=users[curUserId].name;
 }
-console.log("hello from js");
+
+console.log("Hello from JS");
